@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdanish73
+- 👋 Hi, I’m Muhammad Danish Iqbal
 - 👀 I’m interested in Mern Stack Development
 - 🌱 I’m currently learning MERN Stack Development
 
