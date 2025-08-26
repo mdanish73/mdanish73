@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web applications development in the MERN Stack.<br>🌱 I’m currently learning framer-motion and Next.js.<br>💬 Ask me about react, next.<br>📫 How to reach me mdiqbal00037@gmail.com<br>⚡ Fun fact I know Java but I hate it.<br>
+🔭 I’m currently working on web applications development in the Next.js and helping brands design their custom eCommerce Stores on Shopify as a Shopify Liquid Developer.<br>🌱 I’m currently learning framer-motion and Flutter.<br>💬 Ask me about react, next.<br>📫 How to reach me mdiqbal00037@gmail.com<br>
 
 
 ## 🌐 Socials:
