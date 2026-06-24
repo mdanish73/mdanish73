@@ -3,7 +3,7 @@ Building at the intersection of AI, Machine Learning, and Web Development. Forme
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadanishiqbal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.mdanish73@gmail.com) ![Static Badge](https://img.shields.io/badge/fiverr?style=for-the-badge&logo=fiverr&logoColor=%231DBF73&labelColor=%23ffffff&link=https%3A%2F%2Fwww.fiverr.com%2Fs%2FEgG7Yrd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadanishiqbal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.mdanish73@gmail.com) [![Static Badge](https://img.shields.io/badge/fiverr?style=for-the-badge&logo=fiverr&logoColor=%231DBF73&labelColor=%23ffffff&link=https%3A%2F%2Fwww.fiverr.com%2Fs%2FEgG7Yrd)]
  [![Website](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mdiqbal.vercel.app)
 
 # 💻 Tech Stack:
